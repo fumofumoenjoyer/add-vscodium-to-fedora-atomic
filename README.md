@@ -14,3 +14,6 @@ gpgkey=https://gitlab.com/paulcarroty/vscodium-deb-rpm-repo/-/raw/master/pub.gpg
 metadata_expire=1h
 EOF
 ```
+```bash
+rpm-ostree install codium
+```
